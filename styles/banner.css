@@ -1,19 +1,16 @@
 .banner {
-    background: var(--azul-degrade);
+    background: #000000;
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
 }
 
 .banner__titulo {
-    font-size: 18px;
-    font-weight: 700;
-}
-
-.banner__texto {
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 600;
     margin: 1em 0;
 }
+
 
 .banner__pesquisa {
     background-color: transparent;
